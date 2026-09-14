@@ -2,6 +2,8 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        String name = "Elvi";
+        String surname = "Vodopi";
+        System.out.println("Hello " + name + surname);
     }
 }
